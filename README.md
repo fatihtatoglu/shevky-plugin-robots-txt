@@ -31,7 +31,7 @@ The example config below uses `identity.url`, `robots.allow`, and `robots.disall
   "plugins": [
     "shevky-plugin-robots-txt",
   ],
-};
+}
 ```
 
 Example generated `robots.txt` output:

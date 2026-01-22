@@ -1,0 +1,34 @@
+{
+  "name": "shevky-plugin-robots-txt",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "main.js",
+  "exports": "./main.js",
+  "files": [
+    "main.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "shevky",
+    "plugin",
+    "robots.txt",
+    "robots",
+    "sitemap",
+    "seo"
+  ],
+  "author": "Fatih Tatoğlu <fatih@tatoglu.net>",
+  "license": "MIT",
+  "description": "Shevky plugin that generates robots.txt from allow/disallow rules and adds a sitemap line.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihtatoglu/shevky-plugin-robots-txt.git"
+  },
+  "homepage": "https://github.com/fatihtatoglu/shevky-plugin-robots-txt#readme",
+  "bugs": {
+    "url": "https://github.com/fatihtatoglu/shevky-plugin-robots-txt/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
